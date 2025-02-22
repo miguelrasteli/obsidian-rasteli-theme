@@ -7,4 +7,4 @@ Para quem gosta de minimalismo e AMOLED black!
 3. Ative o tema em Configurações > Aparência no Obsidian.
 
 ## Captura de Tela
-![Screenshot](screenshots.png)
+![Screenshot](assets/screenshots.png)
